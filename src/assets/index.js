@@ -30,7 +30,7 @@ import globant from "./company/globant.png";
 import ulearning from "./company/ulearning.png";
 import ceti from "./company/ceti.png";
 
-import cimaapp from "./cimaapp.png";
+import cimaapp from "./cima-app.png";
 import ulearningapp from "./ulearningapp.png";
 import tripguide from "./tripguide.png";
 import unprgmaps from "./unprgmaps.png";
