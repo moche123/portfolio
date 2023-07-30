@@ -6,7 +6,6 @@ import React from "react";
 const Hero = () => {
   return (
     <React.Fragment>
-
       <section className={`relative mb-20 w-full mx-auto`}>
         <div
           className={`relative inset-0 top-[120px]  max-w-7xl mx-auto ${styles.paddingX} flex flex-col md:flex-row items-center gap-5`}
